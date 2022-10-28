@@ -1,1 +1,2 @@
 # INMOVIDU_Technologies_Cyber_Security_Major_Project
+This repository contains a detailed report (in form of presentation slides) of the implementation and the results of four problem statements namely vulnerability assessment on host machine (Windows 10), vulnerbility assessment on a supposedly vulnerable website (http://testphp.vulnweb.com/), password cracking of password-protected zip file, and hiding videos behind images. This Cyber Security and Ethical Hacking Project was provided by INMOVIDU Technologies as part of their live Cyber Security Industrial training program. 
